@@ -26,5 +26,3 @@ def process():
 	{
 		return render_template('noJS.html')
 	}
-
-app.run()
